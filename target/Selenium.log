@@ -1,0 +1,55 @@
+2020-02-28 11:32:15 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:32:15 [INFO ] [TestBase] - [after] 
+2020-02-28 11:32:15 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:32:15 [INFO ] [TestBase] - [after] 
+2020-02-28 11:34:45 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:34:56 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:35:23 [INFO ] [TestBase] - [after] 
+2020-02-28 11:35:23 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:35:32 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:35:50 [INFO ] [TestBase] - [after] 
+2020-02-28 11:43:20 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:43:30 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:44:52 [INFO ] [TestBase] - [after] 
+2020-02-28 11:44:52 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:45:21 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:45:35 [INFO ] [TestBase] - [after] 
+2020-02-28 11:47:20 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:47:30 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:48:52 [INFO ] [TestBase] - [after] 
+2020-02-28 11:48:52 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:49:01 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:50:23 [INFO ] [TestBase] - [after] 
+2020-02-28 11:51:59 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:52:09 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:52:09 [INFO ] [TestBase] - [after] 
+2020-02-28 11:54:25 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:54:35 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:55:07 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:55:17 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:56:38 [INFO ] [TestBase] - [after] 
+2020-02-28 11:57:44 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 11:57:54 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 11:57:55 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....admin
+2020-02-28 11:57:55 [INFO ] [LoginPage] - [enterPassword] entering password....7ab3590096904d6cb47320edae64c823
+2020-02-28 11:57:55 [INFO ] [LoginPage] - [clickOnSubmitButton] clicking on submit button...
+2020-02-28 11:59:17 [INFO ] [TestBase] - [after] 
+2020-02-28 12:00:47 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 12:00:58 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 12:01:14 [INFO ] [TestBase] - [after] 
+2020-02-28 12:01:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 12:38:54 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 12:39:04 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 12:39:04 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....admin
+2020-02-28 12:39:05 [INFO ] [LoginPage] - [enterPassword] entering password....7ab3590096904d6cb47320edae64c823
+2020-02-28 12:39:05 [INFO ] [LoginPage] - [clickOnSubmitButton] clicking on submit button...
+2020-02-28 12:40:27 [INFO ] [TestBase] - [after] 
+2020-02-28 12:41:37 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 12:41:47 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 12:41:47 [INFO ] [TestBase] - [after] 
+2020-02-28 12:45:17 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2020-02-28 12:45:28 [INFO ] [TestBase] - [before] Chrome
+2020-02-28 12:45:28 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....admin
+2020-02-28 12:45:28 [INFO ] [LoginPage] - [enterPassword] entering password....7ab3590096904d6cb47320edae64c823
+2020-02-28 12:45:28 [INFO ] [LoginPage] - [clickOnSubmitButton] clicking on submit button...
+2020-02-28 12:45:45 [INFO ] [TestBase] - [after] 
